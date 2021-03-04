@@ -1,4 +1,4 @@
-name: /Users/yanuarheru/Documents/conda_project/car_sales/envs
+name: envs
 channels:
   - defaults
 dependencies:
