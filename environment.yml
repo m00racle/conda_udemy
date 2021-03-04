@@ -1,4 +1,4 @@
-name: conda_udemy
+name: /Users/yanuarheru/Documents/conda_project/car_sales/envs
 channels:
   - defaults
 dependencies:
